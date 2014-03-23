@@ -1,0 +1,20 @@
+0 fork 1
+0 fork 2
+1 run 100
+1 down 2
+1 run 80
+1 up 2
+1 run 5
+1 diskwrite
+1 run 10
+1 keyboardread
+1 run 50
+2 run 100
+2 down 2
+2 run 70
+2 up 2
+2 run 10
+2 diskread 10
+2 run 60
+
+
